@@ -1,0 +1,71 @@
+BSE 1D for the period 1 Aug 2022 to 1 Aug 2024 (EQUITY T+1)
+
+Banking-
+Axis Bank
+Kotak Bank
+ICICI Bank
+SBIN
+HDFC Bank
+
+Energy-
+Reliance
+GAIL
+GujGasLtd
+ONGC
+ATGL (Adani total gas ltd)
+
+Auto-
+TVS Motor
+TATA Motors
+Hero MotoCorp
+Maruti
+Bajaj - Auto
+
+IT-
+HCLTech
+Wipro
+TCS
+Ramco
+LTTS
+
+Consumer Durables-
+Voltas
+Havells
+BlueStarCo
+Crompton
+Titan
+
+Healthcare-
+Pfizer
+Mankind
+Astrazen
+Lupin
+Sunpharma
+
+Services-
+BlueDart
+SpiceJet
+Concor
+Lancer
+JSWInfra
+
+Telecommunication-
+Idea
+BhartiArtl
+HFCL
+StlTech
+Indus Tower
+
+FMCG-
+HinduUnilvr
+ITC
+Dabur
+Britannia
+AWL
+
+Industrials-
+Mazdock
+CochinShip
+IRB
+BHEL
+RVNL
