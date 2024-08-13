@@ -37,7 +37,7 @@ Titan
 
 Healthcare-
 Pfizer
-Mankind
+ZydusLife
 Astrazen
 Lupin
 Sunpharma
@@ -47,7 +47,7 @@ BlueDart
 SpiceJet
 Concor
 Lancer
-JSWInfra
+Indigo
 
 Telecommunication-
 Idea
